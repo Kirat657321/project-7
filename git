@@ -1,17 +1,17 @@
-<!DOCTYPE html>
+/<!DOCTYPE html>
 <html>
 <head> 
 <style>
  html{
-   font-size: 10px;
-   background-color: light blue;
-   color: green
+   font-size: 80px;
+   background-color:  lightblue;
+   color: lightgreen
    font-family: sans-serif;
  } 
    h1{
-    background-color: light red;
-    color: green;
-    font-size: 20px
+    background-color:  lightcoral;
+    color: lightgreen;
+    font-size: 80px
     font-family: sans-serif;
   }
   
@@ -20,7 +20,13 @@
   <body>
     <h1>Hello World</h1>
     <p id="test">This is a paragraph.</p>
-    <p> The cat is a small, furry animal often kept as a pet. Cats have sharp eyes, sensitive ears, and soft fur, which makes them look cute. They love to play with balls of yarn and can sleep for many hours. Cats eat both meat and plant-based food.</p>
+    <p> The cat (Felis catus), also referred to as the domestic cat or house cat, is a small domesticated carnivorous mammal. 
+        It is the only domesticated species of the family Felidae. Advances in archaeology and genetics have shown that the
+         domestication of the cat occurred in the Near East around 7500 BC. Valued by humans for companionship and its ability
+          to kill vermin, it is commonly kept as a pet and working cat, but it also ranges freely as a feral cat, avoiding human 
+          contact. Its retractable claws are adapted to killing small prey species such as mice and rats. It has a strong, flexible
+           body, quick reflexes, and sharp teeth, and its night vision and sense
+         of smell are well developed. It is a social species, but a solitary hunter and a crepuscular predator.</p>
     <div id="test">
   </body>
   </html>
