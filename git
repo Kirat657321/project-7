@@ -1,0 +1,27 @@
+!DOCTYPE html>
+<html>
+<head> 
+<style>
+ html{
+   font-size: 10px;
+   background-color: light blue;
+   color: green
+   font-family: sans-serif;
+ } 
+   h1{
+    background-color: light red;
+    color: green;
+    font-size: 20px
+    font-family: sans-serif;
+  }
+  
+  </style>
+</head>
+  <body>
+    <h1>Hello World</h1>
+    <p id="test">This is a paragraph.</p>
+    <p> The cat is a small, furry animal often kept as a pet. Cats have sharp eyes, sensitive ears, and soft fur, which makes them look cute. They love to play with balls of yarn and can sleep for many hours. Cats eat both meat and plant-based food.</p>
+    <div id="test">
+  </body>
+  </html>
+  
